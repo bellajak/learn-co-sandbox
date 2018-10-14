@@ -6,3 +6,4 @@ end
 names = ["Ariel"]
 
 badge_maker(names)
+
