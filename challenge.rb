@@ -10,6 +10,6 @@ def badge_maker(names)
     puts "Hello, my name is #{name}"
   end
 end 
-names = []
+names = ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
 
 
