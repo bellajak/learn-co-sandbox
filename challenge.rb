@@ -1,2 +1,2 @@
-badge_maker("ariel")
+def badge_maker("ariel")
   
