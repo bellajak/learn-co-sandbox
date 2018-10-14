@@ -1,4 +1,4 @@
 def badge_maker(names)
   names.each do |name|
-    puts "Hello, my name is "
+    puts "Hello, my name is #{"
 names = ["Ariel"]
