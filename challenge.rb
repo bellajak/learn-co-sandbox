@@ -19,7 +19,7 @@ names = ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
 
 def assign_rooms(names)
   names.each do |names|
-    puts "Hello, #{name}! You'll be assigned to room #"
+    puts "Hello, #{name}! You'll be assigned to room #{index}"
   end
 end
 
