@@ -28,3 +28,4 @@ names = ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
 assign_rooms(names)
 
 def printer
+  
