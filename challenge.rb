@@ -25,7 +25,7 @@ end
 
 names = ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
   
-assign_rooms(names)
+# assign_rooms(names)
 
 def printer
   puts batch_badge_creator(names)
