@@ -1,5 +1,5 @@
 def assign_rooms(names)
-  names.each do |names|
+  names.each do |name|
     puts "Hello, #{name}!"
   end
 end
