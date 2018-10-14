@@ -1,3 +1,3 @@
 def badge_maker()
-  names
+  names.each 
 names = ["Ariel"]
