@@ -15,5 +15,6 @@ names = ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
 
 def assign_rooms
   names.each do |names|
-    puts "Hello, #{name}! You'll be assigned to room" x += 1
+    x = 0 += 1
+    puts "Hello, #{name}! You'll be assigned to room" x
   
