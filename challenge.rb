@@ -3,7 +3,7 @@ def badge_maker(names)
     puts "Hello, my name is #{name}"
   end
 end  
-names = ["Ariel"]
+names = ["Ariel", ]
 
 badge_maker(names)
 
