@@ -5,6 +5,11 @@ def badge_maker(names)
 end  
 names = ["Ariel"]
 
-badge_maker(names)
+def badge_maker(names)
+  names.each do |name|
+    puts "Hello, my name is #{name}"
+  end
+end 
+names = []
 
 
