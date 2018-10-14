@@ -5,7 +5,7 @@ def badge_maker(names)
 end  
 names = ["Ariel"]
 
-# badge_maker(names)
+badge_maker(names)
 
 def batch_badge_creator(names)
   names.each do |name|
@@ -15,7 +15,7 @@ end
 
 names = ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
 
-# batch_badge_creator(names)
+batch_badge_creator(names)
 
 def assign_rooms(names)
   names.each_with_index do |name, index|
@@ -25,7 +25,7 @@ end
 
 names = ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
   
-# assign_rooms(names)
+assign_rooms(names)
 
 def printer(names)
   batch_badge_creator(names)
