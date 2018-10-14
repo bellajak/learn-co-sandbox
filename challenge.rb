@@ -18,6 +18,7 @@ names = ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
 # batch_badge_creator(names)
 
 def assign_rooms(names)
+  
   names do |names|
     puts "Hello, #{name}! You'll be assigned to room"
   end
