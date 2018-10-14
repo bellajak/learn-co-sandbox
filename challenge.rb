@@ -27,11 +27,11 @@ names = ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
   
 # assign_rooms(names)
 
-def printer
+def printer(names)
   puts batch_badge_creator(names)
   puts assign_rooms(names)
 end
 
 names = ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
 
-printer
+printer(names)
