@@ -19,7 +19,7 @@ names = ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
 
 def assign_rooms(names)
   names.each_with_index do |name|
-    puts "Hello, #{name} your "
+    puts "Hello, #{name}! You'll be assigned to room #{index}"
   end
 end
 
