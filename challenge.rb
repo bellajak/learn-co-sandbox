@@ -4,3 +4,5 @@ def badge_maker(names)
   end
 end  
 names = ["Ariel"]
+
+badge_maker(names)
